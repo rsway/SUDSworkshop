@@ -1,2 +1,1 @@
-this is a change in file.txt
-git add
+this is a neww change 
